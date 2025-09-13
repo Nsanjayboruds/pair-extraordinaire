@@ -1,4 +1,4 @@
-# pair-extraordinaire:-
+# pair-extraordinaire 🎮:-
 Guess the Number Game
 
 A simple Python command-line game where the player tries to guess a randomly generated number between 1 and 20. The game provides feedback on whether your guess is too low, too high, or correct.
